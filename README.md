@@ -1,4 +1,4 @@
-# Time_Series_Forecast
+# Time Series Forecast
 
 This program analyzes an e-commerce site's financial and user data to find out if the ability to predict search traffic can translate into the ability to successfully trade the stock. The program will depict seasonality of the data, evaluate the stock prices in correlation to user searches, and forecast and predict hourly search traffic. The program will also visualize future revenues forecasted.
 
